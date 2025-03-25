@@ -1,0 +1,93 @@
+Stacked Column Chart (Sales by State)
+
+X Axis: State
+
+Y Axis Values: Sales Amount
+
+
+
+Stacked Column Chart (Sales by State) including legend
+
+Axis: State
+
+Values: Sales Amount
+
+Legend: Product Category
+
+
+Stacked Column Chart (Sales by State) including legend and tooltip
+
+Axis: State
+
+Values: Sales Amount
+
+Legend: Product Category
+
+tooltip: Sub-Category
+
+
+100% Stacked Column Chart (Sales by State) including legend and tooltip
+
+Axis: State
+
+Values: Sales Amount
+
+Legend: Product Category
+
+tooltip: Sub-Category
+
+
+
+Clustered Column Chart (Sales by Region) legend by Country
+
+Axis: Region
+
+Values: Sales Amount
+
+Legend: Country
+
+
+Line Chart (Sales by UK Date)
+
+Axis: UK format date_ Transaction Date
+
+Values: Sales Amount
+
+
+Line Chart (Sales by UK Date) including legend
+
+Axis: UK format date_ Transaction Date
+
+Values: Sales Amount
+
+Legend: Country
+
+
+Area Chart (Sales by UK Date) including legend
+
+Axis: UK format date_ Transaction Date
+
+Values: Sales Amount
+
+Legend: Country
+
+
+Area Chart (Sales by UK Date) including legend
+
+Axis: UK format date_ Transaction Date
+
+Values: Sales Amount
+
+Legend: Country
+
+
+Funnel Chart (Sales by Region) 
+Axis: Region
+
+Values: Sales Amount
+
+Tree map (Sales by Sub category) 
+Axis: Sub category
+
+Values: Sales Amount
+

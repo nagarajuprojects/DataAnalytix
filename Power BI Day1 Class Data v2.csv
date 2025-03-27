@@ -1,0 +1,25 @@
+﻿InvDate,INVreceived,OrderDate,Location,Latitude,Longitude,Product_Category,SubCategory,Sales_Amount,Profit,Order Count
+2023-04-21,03-20-2023,01-03-2023,"SOUTH,india,kerala,kochi",9.9312,76.2673,Clothing,Shoes,480,80,2
+2023-04-01,02-03-2023,04-02-2023,"EAST,usa,georgia,atlanta",33.749,-84.388,Furniture,Sofas,750,300,3
+2024-04-01,02-03-2024,04-02-2024,"EAST,usa,georgia,atlanta",33.749,-84.388,Electronics,TVs,750,200,5
+2024-12-15,12-21-2024,07-12-2024,"EAST,usa,massachusetts,boston",42.3601,-71.0589,Clothing,Jeans,300,50,4
+2024-02-24,01-04-2024,08-01-2024,"WEST,india,maharashtra,mumbai",19.076,72.8777,Clothing,Shoes,700,120,5
+2024-03-03,02-01-2024,08-01-2024,"NORTH,india,punjab,chandigarh",30.7333,76.7794,Electronics,TVs,500,75,3
+2024-04-05,03-02-2024,09-02-2024,"SOUTH,india,telangana,hyderabad",17.385,78.4867,Clothing,Jeans,550,90,4
+2024-04-13,02-22-2024,10-03-2024,"NORTH,india,uttar pradesh,lucknow",26.8467,80.9462,Electronics,Laptops,200,220,3
+2024-02-14,12-21-2023,12-01-2024,"NORTH,india,delhi,new delhi",28.6139,77.209,Home Decor,Clocks,600,90,2
+2024-03-19,02-15-2024,12-02-2024,"SOUTH,india,tamil nadu,chennai",13.0827,80.2707,Electronics,Speakers,650,110,3
+2024-04-09,02-10-2024,12-02-2024,"WEST,usa,washington,seattle",47.6062,-122.3321,Furniture,Cabinets,1100,180,6
+2025-03-23,02-21-2025,15-02-2025,"NORTH,usa,illinois,chicago",41.8781,-87.6298,Furniture,Chairs,900,140,4
+2024-07-07,07-12-2023,15-07-2023,"WEST,usa,california,los angeles",34.0522,-118.2437,Electronics,Speakers,800,150,3
+2024-03-04,12-11-2023,17-10-2023,"EAST,usa,new york,new york",40.7128,-74.006,Home Decor,Mirrors,500,100,6
+2024-02-04,12-10-2023,17-12-2023,"EAST,usa,new york,new york",40.7128,-74.006,Electronics,Laptops,700,50,5
+2024-03-11,01-12-2024,22-01-2024,"WEST,india,gujarat,ahmedabad",23.0225,72.5714,Home Decor,Mirrors,450,65,2
+2024-02-11,11-30-2023,24-11-2023,"EAST,usa,florida,miami",25.7617,-80.1918,Clothing,Jeans,800,180,4
+2024-02-19,12-31-2023,24-12-2023,"EAST,usa,florida,miami",25.7617,-80.1918,Electronics,Tablets,500,180,4
+2024-04-17,02-22-2024,25-02-2024,"EAST,usa,pennsylvania,philadelphia",39.9526,-75.1652,Home Decor,Rugs,750,130,5
+2024-02-11,12-17-2023,25-12-2023,"SOUTH,india,karnataka,bangalore",12.9716,77.5946,Furniture,Chairs,950,100,6
+2024-08-25,08-27-2024,26-08-2024,"WEST,usa,arizona,phoenix",33.4484,-112.074,Electronics,Speakers,990,150,4
+2024-03-08,01-29-2024,27-01-2024,"SOUTH,usa,texas,houston",29.7604,-95.3698,Furniture,Sofas,750,220,7
+2024-03-27,01-28-2024,27-01-2024,"WEST,india,rajasthan,jaipur",26.9124,75.7873,Home Decor,Mirrors,400,50,2
+2025-02-23,02-21-2025,30-01-2025,"SOUTH,india,telangana,hyderabad",41.8781,-87.6298,Furniture,Chairs,800,140,4
